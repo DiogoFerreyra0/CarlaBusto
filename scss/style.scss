@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+$color-principal: #FFE495;
+$color-secundario: #1111;
+
+
+
+
+body {
+    background-color: $color-principal;
+}
+
+h1 {
+    font-family: "Lato", sans-serif; 
+}
+
+header {
+    
+    
+    nav {
+        margin: 10px;
+        padding: 1px;
+
+        ul {
+
+           background-color: beige;
+           
+           li {
+            list-style: none;
+            
+           }
+                
+        }
+
+    }
+
+}

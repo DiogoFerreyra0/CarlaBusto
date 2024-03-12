@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #FFE495;
+}
+
+h1 {
+  font-family: "Lato", sans-serif;
+}
+
+header nav {
+  margin: 10px;
+  padding: 1px;
+}
+header nav ul {
+  background-color: beige;
+}
+header nav ul li {
+  list-style: none;
+}
+
+/*# sourceMappingURL=style.css.map */
